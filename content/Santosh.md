@@ -1,1 +1,1 @@
-Santosh is a programmer.
+Santosh is a programmer and a user of quartz by [jzhao](https://quartz.jzhao.xyz).
